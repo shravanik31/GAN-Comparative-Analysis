@@ -60,10 +60,10 @@ This project examines three significant Generative Adversarial Network (GAN) mod
 - **ACGAN**: Initially outperformed WGAN but demonstrated increased variability in later epochs, possibly indicating overfitting.
 
 ## File Descriptions
-- `dcgan.py`: Implements DCGAN model with training and evaluation functions.
-- `wgan.py`: Implements WGAN model with training and evaluation functions.
-- `acgan.py`: Implements ACGAN model with training and evaluation functions.
-- `fid_score.py`: Calculates FID scores using InceptionV3 model.
+- `DCGAN.py`: Implements DCGAN model with training and evaluation functions.
+- `WGAN.py`: Implements WGAN model with training and evaluation functions.
+- `ACGAN.py`: Implements ACGAN model with training and evaluation functions.
+- `FIDComparisonAnalysis.py`: Compares FID scores of the three models using InceptionV3 model.
 
 ## Instructions to Execute Code
 
